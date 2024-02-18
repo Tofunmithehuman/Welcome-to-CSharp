@@ -1,0 +1,14 @@
+C:\Users\Oluwatofunmi\Desktop\C#\Welcome to CSharp\bin\Debug\net8.0\Welcome to CSharp.exe
+C:\Users\Oluwatofunmi\Desktop\C#\Welcome to CSharp\bin\Debug\net8.0\Welcome to CSharp.deps.json
+C:\Users\Oluwatofunmi\Desktop\C#\Welcome to CSharp\bin\Debug\net8.0\Welcome to CSharp.runtimeconfig.json
+C:\Users\Oluwatofunmi\Desktop\C#\Welcome to CSharp\bin\Debug\net8.0\Welcome to CSharp.dll
+C:\Users\Oluwatofunmi\Desktop\C#\Welcome to CSharp\bin\Debug\net8.0\Welcome to CSharp.pdb
+C:\Users\Oluwatofunmi\Desktop\C#\Welcome to CSharp\obj\Debug\net8.0\Welcome to CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oluwatofunmi\Desktop\C#\Welcome to CSharp\obj\Debug\net8.0\Welcome to CSharp.AssemblyInfoInputs.cache
+C:\Users\Oluwatofunmi\Desktop\C#\Welcome to CSharp\obj\Debug\net8.0\Welcome to CSharp.AssemblyInfo.cs
+C:\Users\Oluwatofunmi\Desktop\C#\Welcome to CSharp\obj\Debug\net8.0\Welcome to CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Oluwatofunmi\Desktop\C#\Welcome to CSharp\obj\Debug\net8.0\Welcome to CSharp.dll
+C:\Users\Oluwatofunmi\Desktop\C#\Welcome to CSharp\obj\Debug\net8.0\refint\Welcome to CSharp.dll
+C:\Users\Oluwatofunmi\Desktop\C#\Welcome to CSharp\obj\Debug\net8.0\Welcome to CSharp.pdb
+C:\Users\Oluwatofunmi\Desktop\C#\Welcome to CSharp\obj\Debug\net8.0\Welcome to CSharp.genruntimeconfig.cache
+C:\Users\Oluwatofunmi\Desktop\C#\Welcome to CSharp\obj\Debug\net8.0\ref\Welcome to CSharp.dll
