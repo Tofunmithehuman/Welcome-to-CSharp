@@ -12,3 +12,4 @@ C:\Users\Oluwatofunmi\Desktop\C#\Welcome to CSharp\obj\Debug\net8.0\refint\Welco
 C:\Users\Oluwatofunmi\Desktop\C#\Welcome to CSharp\obj\Debug\net8.0\Welcome to CSharp.pdb
 C:\Users\Oluwatofunmi\Desktop\C#\Welcome to CSharp\obj\Debug\net8.0\Welcome to CSharp.genruntimeconfig.cache
 C:\Users\Oluwatofunmi\Desktop\C#\Welcome to CSharp\obj\Debug\net8.0\ref\Welcome to CSharp.dll
+C:\Users\Oluwatofunmi\Desktop\C#\Welcome to CSharp\obj\Debug\net8.0\Welcome to CSharp.sourcelink.json
